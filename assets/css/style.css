@@ -1,3 +1,4 @@
+/* updated html behavior for smmother transitions to links */
 html {
     scroll-behavior: smooth;
   }
@@ -16,7 +17,7 @@ content {
 body {
     background-color: #d9dcd6;
 }
-
+/* All headers will have padding of 20 pixles with the color #ffffff applied unless instructed otherwise */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -39,7 +40,7 @@ header nav {
     font-size: 20px;
     float: right;
 }
-
+/* Navigation section follows below. */
 nav ul {
     list-style-type: none;
     padding-top: 10px;
@@ -64,7 +65,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* the below following objects were uniquely by their class grouping*/
 .hero {
     height: 1100px;
     width: 100%;
@@ -204,6 +205,7 @@ p {
     font-size: 36px;
 }
 
+/* Footer applied  at center of page */
 footer {
     padding: 30px;
     clear: both;
