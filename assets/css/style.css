@@ -65,7 +65,7 @@ a {
 p {
     font-size: 16px;
 }
-/* the below following objects were uniquely by their class grouping*/
+/*  Main image is .hero */
 .hero {
     height: 1100px;
     width: 100%;
@@ -76,6 +76,7 @@ p {
     background-position: center;
 }
 
+/* the below following objects were uniquely by their class grouping for content st*/
 .float-left {
     float: left;
     margin-right: 25px;
