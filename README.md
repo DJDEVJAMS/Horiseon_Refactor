@@ -36,7 +36,7 @@ THEN I find a concise, descriptive title
 Static site link - https://djdevjams.github.io/Horiseon_Refactor/
 
 Screenshot of site
-<img src=./assets/images/completed_Horiseon_Refactor_index.html.png" alt="refactored site screenshot">
+<img src="./assets/images/completed_Horiseon_Refactor_index.html.png" alt="refactored site screenshot">
 
 ----
 
