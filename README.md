@@ -13,7 +13,7 @@ The following image shows the web application's appearance and functionality:
 Static site link - https://djdevjams.github.io/Horiseon_Refactor/
 
 Screenshot of site
-<img src="./assets/images/completed_Horiseon_Refactor_index.html.png" alt="refactored site screenshot">
+(./assets/images/completed_Horiseon_Refactor_index.html.png)
 
 ----
 
